@@ -1,4 +1,4 @@
-QUIZ=sample
+QUIZ=sample 2018W37
 
 .PHONY: all test $(QUIZ)
 
