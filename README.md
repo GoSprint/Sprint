@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/GoSprint/Sprint.svg?branch=master)](https://travis-ci.org/GoSprint/Sprint.svg)
+
 # Sprint
 A Go-lang sprint class
 
