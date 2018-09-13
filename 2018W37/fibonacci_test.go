@@ -3,11 +3,13 @@ package main
 import (
 	"fmt"
 	"testing"
+	"io/ioutil"
 )
 
-func Test (t *testing . T) {
+func Test_Fibonacci (t *testing . T) {
 	f := []func(int) int {
 		Fibonacci_cmj,
+		Fibonacci_jay,
 	}
 	cases := [][]int {
 		{0, 1},
@@ -23,3 +25,5 @@ func Test (t *testing . T) {
 		}
 	}
 }
+
+
